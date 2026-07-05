@@ -47,7 +47,8 @@ The Power BI dashboard includes:
 - Revenue breakdown by customer state
 - KPI cards: total revenue, distinct order count, average delivery time
 
-![Dashboard screenshot](./dashboard/dashboard_screenshot.png)
+<img width="698" height="899" alt="image" src="https://github.com/user-attachments/assets/2ae2b5f2-3b1c-430b-b490-cdbfd0ca631e" />
+
 
 ## Optimization case study
 
