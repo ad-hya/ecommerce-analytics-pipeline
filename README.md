@@ -13,7 +13,7 @@ An end-to-end data engineering and analytics project: a Snowflake data warehouse
 
 ## Tech stack
 
-`Snowflake` · `SQL` · `Power BI` · `Airflow` 
+`Snowflake` · `SQL` · `Power BI` · `Apache Airflow` · `Docker` 
 
 ## Project structure
 
@@ -81,7 +81,7 @@ To move this project beyond one-off SQL scripts, the staging → marts pipeline 
 - Retry logic and observability — failed tasks retry automatically, and every run's duration/status is logged and visible in the UI
 - Scheduling — this can run daily/hourly without manual intervention, matching how a production analytics pipeline would actually operate
 
-![Airflow DAG Graph View](<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/5822abeb-bf01-411d-a34c-724380224039" />)
+(<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/5822abeb-bf01-411d-a34c-724380224039" />)
 
 **Setup:**
 ```bash
